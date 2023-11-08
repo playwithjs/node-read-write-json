@@ -1,0 +1,42 @@
+[
+  {
+    "author": "Honoré de Balzac",
+    "country": "France",
+    "imageLink": "images/le-pere-goriot.jpg",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
+    "pages": 443,
+    "title": "Le Père Goriot",
+    "year": 1835
+  },
+  {
+    "author": "Samuel Beckett",
+    "country": "Republic of Ireland",
+    "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
+    "language": "French, English",
+    "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
+    "pages": 256,
+    "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+    "year": 1952
+  },
+  {
+    "author": "Giovanni Boccaccio",
+    "country": "Italy",
+    "imageLink": "images/the-decameron.jpg",
+    "language": "Italian",
+    "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
+    "pages": 1024,
+    "title": "The Decameron",
+    "year": 1351
+  },
+  {
+    "author": "Jorge Luis Borges",
+    "country": "Argentina",
+    "imageLink": "images/ficciones.jpg",
+    "language": "Spanish",
+    "link": "https://en.wikipedia.org/wiki/Ficciones\n",
+    "pages": 224,
+    "title": "Ficciones",
+    "year": 1965
+  }
+]
